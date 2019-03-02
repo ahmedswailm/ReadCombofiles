@@ -1,5 +1,6 @@
 # ReadCombofiles
 
+#This is very simple Script for zero python knowledge
 
 #You will be able to read your Email Combo File in python Script
 

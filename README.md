@@ -5,12 +5,15 @@
 
 #All rights reserved to @AhmedSwailm
 
+#######################################
+
+Your Combo must be as the below :
+
+     Email@Host.com:password
+
 ## Follow Me 
-## Questions, problems, suggestions and etc:
 
 #https://www.youtube.com/ahmedswailm
-
-###############################
 
 #https://twitter.com/ahmed_swailm
 
@@ -18,8 +21,5 @@
 
 #https://www.fiverr.com/ahmedswailm
 
-#######################################
-
-Your Combo must be as the below :
-
-     Email@Host.com:password
+## Questions, problems, suggestions and etc:
+    AhmedSwailm@hotmail.com

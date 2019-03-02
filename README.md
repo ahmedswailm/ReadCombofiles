@@ -23,3 +23,6 @@ Your Combo must be as the below :
 
 ## Questions, problems, suggestions and etc:
     AhmedSwailm@hotmail.com
+
+## Donate to me BitCoin:
+    1Z6JBaxXZpqRsgxDnspZpVCnKzadkNjs6

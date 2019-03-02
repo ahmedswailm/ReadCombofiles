@@ -7,9 +7,11 @@
 
 #######################################
 
-Your Combo must be as the below :
+* Your Combo must be as the below :
 
-     Email@Host.com:password
+      Email@Host.com:password
+
+* Combo.txt must be in the same folder or change the path to the text file path
 
 ## Follow Me 
 

@@ -10,46 +10,14 @@
 
 ###############################
 
-#https://about.me/ahmedswailm/
-
-#https://www.pinterest.com/ahmedswailm/
-
-#https://ahmedswailm.tumblr.com/
-
-#https://www.reddit.com/user/ahmedswailm/
-
-#https://github.com/ahmedswailm
-
-#https://vimeo.com/ahmedswailm
-
 #https://twitter.com/ahmed_swailm
 
 #http://facebook.com/ahmedswailm2
 
-#http://linkedin.com/in/ahmedswailm/
-
-#http://flickr.com/ahmedswailm
-
-#https://plus.google.com/+ahmedswailm
-
-#http://instagram.com/ahmedswailm
-
-#https://www.behance.net/ahmedswailm
-
-#https://ask.fm/ahmedswailm
-
-#https://www.patreon.com/ahmedswailm
-
-#https://www.scribd.com/ahmedswailm
-
 #https://www.fiverr.com/ahmedswailm
 
-#https://www.goodreads.com/ahmedswailm
-
-#http://www.dailymotion.com/ahmedswailm
-
-#https://www.slideshare.net/AhmedSwailm
-
-#https://www.last.fm/user/AhmedSwailm
-
 #######################################
+
+Your Combo must be as the below :
+
+Email@Host.com:password

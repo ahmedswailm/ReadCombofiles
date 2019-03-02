@@ -1,9 +1,9 @@
 # ReadCombofiles
 you will be able to read your Email Combo File in python Script
 #All rights reserved to @AhmedSwailm
-###### Follow Me ##############
+###### Follow Me ##############\n
 #https://www.youtube.com/ahmedswailm
-###############################
+###############################\n
 #https://about.me/ahmedswailm/
 #https://www.pinterest.com/ahmedswailm/
 #https://ahmedswailm.tumblr.com/
